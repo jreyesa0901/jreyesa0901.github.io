@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://template03.github.io/sitemap.xml
