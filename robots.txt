@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jreyesa0901.github.io/sitemap.xml
+Sitemap: https://jreyesa0901.github.io/cvextended/# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
